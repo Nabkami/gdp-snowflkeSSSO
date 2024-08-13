@@ -1,2 +1,8 @@
 streamlit
 pandas
+snowflake-connector-python
+requests
+numpy
+scikit-learn
+matplotlib
+seaborn
